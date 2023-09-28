@@ -1,0 +1,14 @@
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.exe.config
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.exe
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\bin\Debug\Note-taking App.pdb
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.csproj.CopyComplete
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.exe
+C:\Users\rapha\Downloads\Compressed\Note-taking-App-master\Note-taking-App-master\Note-taking App\obj\Debug\Note-taking App.pdb
